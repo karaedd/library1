@@ -1,0 +1,10 @@
+com\kraievskyi\library\repository\BookRepository.class
+com\kraievskyi\library\model\request\BookCreationRequest.class
+com\kraievskyi\library\controller\LibraryController.class
+com\kraievskyi\library\model\Book.class
+com\kraievskyi\library\service\LibraryService.class
+com\kraievskyi\library\repository\AuthorRepository.class
+com\kraievskyi\library\model\request\AuthorCreationRequest.class
+com\kraievskyi\library\LibraryApplication.class
+com\kraievskyi\library\model\Author.class
+com\kraievskyi\library\exception\EntityNotFoundException.class

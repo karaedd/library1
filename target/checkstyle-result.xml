@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\Book.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\Author.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\request\AuthorCreationRequest.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\request\BookCreationRequest.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\service\LibraryService.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\repository\BookRepository.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\repository\AuthorRepository.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\exception\EntityNotFoundException.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\controller\LibraryController.java">
+</file>
+<file name="G:\java\workspace\library\src\main\java\com\kraievskyi\library\LibraryApplication.java">
+</file>
+<file name="G:\java\workspace\library\src\main\resources\application.properties">
+</file>
+</checkstyle>

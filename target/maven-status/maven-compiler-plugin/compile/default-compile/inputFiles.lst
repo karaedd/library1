@@ -1,0 +1,10 @@
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\Book.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\repository\BookRepository.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\request\BookCreationRequest.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\Author.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\exception\EntityNotFoundException.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\controller\LibraryController.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\model\request\AuthorCreationRequest.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\service\LibraryService.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\repository\AuthorRepository.java
+G:\java\workspace\library\src\main\java\com\kraievskyi\library\LibraryApplication.java
